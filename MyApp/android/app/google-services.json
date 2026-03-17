@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506283715984",
+    "project_id": "dateapp-4d5ef",
+    "storage_bucket": "dateapp-4d5ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506283715984:android:08d0b1aa9c0383819bd715",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPN7kh8FzXFXQjwxITpUXdDqRK-RjiRSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
